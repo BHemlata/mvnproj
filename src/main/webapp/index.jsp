@@ -8,9 +8,7 @@
     <body>
         <h1>Demo Project from Devops</h1>
         <h1>Hello from SathyaTech</h1>
-        <h1>Hello from SathyaTech</h1>
-        <h1>Hello from SathyaTech</h1>
-        <h1>Hello from SathyaTech</h1>
+        <h1>am balaji</h1>
 
 <table width="50%" bgcolor="pink" align="center" border="2">
 
