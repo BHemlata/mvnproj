@@ -12,8 +12,10 @@
         <h1>hi prakash</h1>
 	<h1>hi reddy</h1>
 	<h1>hi ravi</h1>
+        <h1>Hi RAKESH</h1>
+	<h1>Hi Lilliput</h1>
 
-<table width="50%" bgcolor="pink" align="center" border="2">
+<table width="50%" bgcolor="green" align="left" border="6">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
