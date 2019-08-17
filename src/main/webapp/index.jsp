@@ -8,17 +8,17 @@
     <body>
         <h1>Demo Project from Devops</h1>
         <h1>Hello from SathyaTech</h1>
-        <h1>am balaji</h1>
-        <h1>hi prakash</h1>
-	<h1>hi reddy</h1>
-	<h1>hi ravi</h1>
-        <h1>Hi RAKESH</h1>
-	<h1>Hi Lilliput</h1>
+	<h1>Am Balaji The Boss</h1>
+        <h1>Am Prakash The Invisible Man</h1>
+	<h1>Am Reddy The Iron Man</h1>
+	<h1>Am Ravi The Director</h1>
+        <h1>Am Arshiya The Devil</h1>
+	<h1>Am Sumalatha The Lilliput</h1>
 
-<table width="50%" bgcolor="green" align="left" border="6">
+<table width="50%" bgcolor="green" align="right" border="10">
 
 <tr>
-<td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
+<td colspan=4><center><font size=6><b>HTML Login Page</b></font></center></td>
 </tr>
 
 <tr>
